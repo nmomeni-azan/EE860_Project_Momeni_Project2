@@ -2,4 +2,3 @@ Machine Learning is a branch of artificial intelligence that creates statistical
 
 
 Keywords: accuracy, model, dataset, sex
-![image](https://github.com/nmomeni-azan/EE860_Project_Momeni_Project2/assets/152101791/9bfd88d6-cc25-4253-96e5-6965eb73d644)
