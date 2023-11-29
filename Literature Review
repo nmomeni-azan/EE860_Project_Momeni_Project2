@@ -1,10 +1,8 @@
-Lite
-
 A paper published in 2022 provides a review of using the Abalone dataset to predict the age of the mollusk from the attributes of the dataset. A number of methods are tested such as backpropagation feed-forward neural network (BPFFNN), K-Nearest Neighbours (KNN), Naïve Bayes, Decision Tree, Random Forest, Gauss Naïve Bayes, and Support Vector Machines (SVM). It was found that of the 6 algorithms explored the BPFFNN model provided the highest accuracy of 86.28% and KNN provided the lowest at 86.28%. In this study the categorical feature, sex, was converted into a numerical feature to predict the age of the abalone. 
 
 S. Guney, I. Kilinc, A. Hameed, and A. Jamil, "Abalone Age Prediction Using Machine Learning,". 10.1007/978-3-031-04112-9_25.
 
-Study performed in 2016 provides an evaluation of neural networks for multiclass classification. The abalone dataset is used to evaluate a multilayer perceptron using 12 parameters. The dataset is used to predict the age of the mollusk and the data was normalized in the range [0,1]. They concluded that accuracy is not the only parameter that should be considered when evaluating the effectiveness of a model. With that being said when the number of layers increased when running the model training, the accuracy as well as the F1 score, and sensitivity increased as well. The overall accuracy was approximately 93% for this evaluation. 
+This study performed in 2016 provides an evaluation of neural networks for multiclass classification. The abalone dataset is used to evaluate a multilayer perceptron using 12 parameters. The dataset is used to predict the age of the mollusk and the data was normalized in the range [0,1]. They concluded that accuracy is not the only parameter that should be considered when evaluating the effectiveness of a model. With that being said when increasing the number of layers, the accuracy, the F1 score, and the sensitivity increased as well. The overall accuracy was approximately 93% for this evaluation. 
 
 S. Dinesh and T. Dash, "Reliable Evaluation of Neural Network for Multiclass Classification of Real-world Data,". ArXiv, abs/1612.00671, 2016.
 
